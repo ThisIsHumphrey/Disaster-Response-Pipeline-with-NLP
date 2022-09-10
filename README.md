@@ -16,7 +16,7 @@ app
 | - template    
 | |- master.html # main page of web app    
 | |- go.html # classification result page of web app    
-|- run.py # Flask file that runs app    
+| - run.py # Flask file that runs app    
 
 
 data    
@@ -63,13 +63,13 @@ A jupyter notebook `ML Pipeline Preparation` was used to do EDA to prepare the t
 #### 3. Flask Web App
 The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. The outputs are shown below:
 
-![app3](https://user-images.githubusercontent.com/54407746/98725077-9826b800-238c-11eb-828f-864dce8cbd9b.JPG)
+![app3](https://github.com/ThisIsHumphrey/Disaster-Response-Pipeline-with-NLP/blob/main/page%20screenshot/Screenshot%202022-09-09%20120757.jpg?raw=true)
 
 
-![app1](https://user-images.githubusercontent.com/54407746/98724735-159df880-238c-11eb-8338-bc4b4e0b1c39.JPG)
+![app1](https://github.com/ThisIsHumphrey/Disaster-Response-Pipeline-with-NLP/blob/main/page%20screenshot/Screenshot%202022-09-09%20120826.jpg?raw=true)
 
 
-![app2](https://user-images.githubusercontent.com/54407746/98724932-5bf35780-238c-11eb-8a93-ebb09ab2d510.JPG)
+![app2](https://github.com/ThisIsHumphrey/Disaster-Response-Pipeline-with-NLP/blob/main/page%20screenshot/Screenshot%202022-09-09%20120907.jpg?raw=true)
 
 
 ### Instructions of How to Interact With Project:
